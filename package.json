@@ -1,8 +1,4 @@
-{
-  "name": "supervision",
-  "version": "0.0.0",
-  "scripts": {
-     "start": "node index.js"
-  },
-  "main": "index.js",
-}
+"scripts": {
+  "start": "node server.js"
+},
+"main": "server.js"
